@@ -2,3 +2,9 @@ h1{
     text-align: center;
     color: orangered;
 }
+p{
+    color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 75%;
+    margin: 0 auto;
+}
