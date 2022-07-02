@@ -1,6 +1,7 @@
 h1{
     text-align: center;
     color: orangered;
+    border: 2px dashed brown;
 }
 p{
     color: chartreuse;
